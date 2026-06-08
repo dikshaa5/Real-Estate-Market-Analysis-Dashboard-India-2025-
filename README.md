@@ -47,7 +47,7 @@ Analyzed demand distribution across property types.
 Evaluated city-level price-per-square-foot variations.
 📸 Dashboard Preview
 
-()
+(![Dashboard](Screenshots/r.jfif))
 
 🚀 Business Impact
 Helps investors identify high-growth markets.
